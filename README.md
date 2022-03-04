@@ -1,2 +1,2 @@
-- 👀 I’m interested in mathematical physics, crypto, and logic(model theory).
+- 👀 I’m interested in mathematical physics, and logic(model theory & foundations of mathematics).
 
